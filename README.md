@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+just another day !
+
+what up humans?
